@@ -1,0 +1,2 @@
+# LaboratoriumPythonJG
+Laboratorium 
