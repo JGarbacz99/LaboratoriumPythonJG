@@ -1,2 +1,0 @@
-# LaboratoriumPythonJG
-Laboratorium 
