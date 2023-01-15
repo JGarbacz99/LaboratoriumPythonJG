@@ -7,4 +7,12 @@ def mnozenie(x, y):
 def dzielenie(x, y):
     if y != 0:
         return x/y
-    else
+    else: return None
+
+kalkulator={'+': dodawanie, '-': odejmowanie, '*': mnozenie, '/': dzielenie}
+d="+"
+L1 = 2
+L2 = 3
+
+print(kalkulator[d](L1, L2))
+
